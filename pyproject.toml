@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "Hackxyk-Stablecoin-Challenges"
 version = "0.1.0"
-description = "Hackxyk Stablecoin Challenges implemented with Ape, exploits with Vyper"
-authors = "0xJCN"
+description = "Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper"
+authors = ["0xJCN"]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.11"
